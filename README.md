@@ -7,11 +7,14 @@ to run project, download the project to home/face
 
 then mount the folder into docker with these commands:
 
+
 cd jetson-inference
 
 docker/run.sh --volume ~/face:/face
 
+
 to run the program:
+
 
 cd /face/
 
