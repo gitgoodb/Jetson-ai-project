@@ -1,6 +1,6 @@
 # Jetson-ai-project
 Project for jetson ai certificate
-
+you must first have the jetson image from the hello AI world downloaded
 
 to run project, download the project to home/face
 then mount the folder into docker with these commands:
