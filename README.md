@@ -1,7 +1,7 @@
 # Jetson-ai-project
 Project for jetson ai certificate
 
-This program will run an image detection algorithm to detect if my face is in front the camera, and then open a text file with the "secrets" that I dont want my roomate to be able to access
+This program will run an image detection algorithm to detect if my face is in front the camera, and then open a text file with the "secrets" that I dont want my roomate to be able to access like my passwords and social security number.
 
 This program is in no way secure, and should not be used to store information that you want to hid from other people.  Everything is stored in plain text, and can be very easily found through the file explorer.  This is intended simply as a fun project to learn more about using the Jetson Nano.
 
